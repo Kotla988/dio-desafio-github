@@ -1,2 +1,2 @@
-# dio-desafio-github
-Desafio de primeiro repositório da DIO!
+# Repositório do desafio sobre Git/GitHub
+Primeiros passos usando Git/GitHub :keyboard:
